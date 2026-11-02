@@ -1,7 +1,7 @@
 # Ex-1_INSTALLING-AND-RUNNING-APPLICATIONS-ON-ANDROID-STUDIO
-# Ex-1_INSTALLING-AND-RUNNING-APPLICATIONS-ON-ANDROID-STUDIO
-## NAME: Pradeep kumar R
-## Register number: 212223220077
+## developed by : JEEVITHA K
+## Register number : 212225-14-149
+
 
 # Android Studio Installation and Running Applications
 
