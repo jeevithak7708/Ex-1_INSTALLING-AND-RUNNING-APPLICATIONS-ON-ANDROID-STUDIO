@@ -1,6 +1,6 @@
 # Ex-1_INSTALLING-AND-RUNNING-APPLICATIONS-ON-ANDROID-STUDIO
 ## developed by : JEEVITHA K
-## Register number : 212225-14-149
+## Register number : 212225040149
 
 
 # Android Studio Installation and Running Applications
